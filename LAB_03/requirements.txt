@@ -1,2 +1,4 @@
-PyQt5
+pyQt5
+ecdsa
+rsa
 requests
